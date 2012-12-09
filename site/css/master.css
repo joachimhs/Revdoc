@@ -1,0 +1,52 @@
+body {
+    padding: 10px;
+    color: black;
+    background-color: #ffffff;
+}
+
+#mainArea {
+    margin: 0 auto;
+    width: 770px;
+}
+
+.chapterHeadline {
+    text-align: right;
+    color: #c10003;
+    font-size: 2em;
+    line-height: 1em;
+    margin-bottom: 7em;
+}
+
+.chapterHeadline h1 {
+    text-align: right;
+    color: #c10003;
+    font-size: 4em;
+    line-height: 1em;
+}
+
+.chapterSection {
+
+}
+
+.chapterSection h1 {
+    margin-top: 1em;
+    color: #c10003;
+}
+
+.leftMargin {
+    position: relative;
+    left: -100px;
+    top: 20px;
+}
+
+.rightMargin {
+    position: relative;
+    right: -100px;
+    left: 770px;
+    top: 20px;
+}
+
+.paragraphTextArea {
+    width: 700px;
+    height: 200px;
+}

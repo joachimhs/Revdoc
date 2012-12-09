@@ -1,0 +1,44 @@
+[
+    {
+        "id": "ch1_sect1",
+        "type": "sect1",
+        "title": "On The Origin of WWW",
+        "content": "The World Wide Web (WWW) was created during the late 1980s to early 1990s, with a first working toolset for the complete WWW in December 1990 encompassing version 0.9 of the HyperText Transfer Protocol (HTTP), the Hypertext Markup Lanugage (HTML), the first Web browser (called WorldWideWeb), as well as the very first HTTP server software (called CERN httpd). The creator of the World Wide Web, Tim Berners-Lee, unveiled the WWW project to the rest of the world in august 6th, 1991 via the alt.hypertext newsgroup."
+    },
+    {
+        "id": "ch1_sect2",
+        "type": "simplesect",
+        "title": null,
+        "content": "Although the World Wide Web marked the start of the Internet that we rely so heavily on today, its origin is very far from where it is today. The original summary document from 1991 lists the following key highlights:"
+    },
+    {
+        "id": "ch1_sect3",
+        "type": "simplesect",
+        "title": null,
+        "content": "The WWW project merges the techniques of information retrieval and hypertext to make an easy but powerful global information system."
+    },
+    {
+        "id": "ch1_sect4",
+        "type": "simplesect",
+        "title": null,
+        "content": "The WWW world consists of documents, and links. Indexes are special documents which, rather than being read, may be searched. The result of such a search is another (\"virtual\") document containing links to the documents found.  A simple protocol (\"HTTP\") is used to allow a browser program to request a keyword search by a remote information server."
+    },
+    {
+        "id": "ch1_sect5",
+        "type": "simplesect",
+        "title": null,
+        "content": "The web contains documents in many formats. Those documents which are hypertext, (real or virtual) contain links to other documents, or places   within documents."
+    },
+    {
+        "id": "ch1_sect6",
+        "type": "simplesect",
+        "title": null,
+        "content": "The WWW model gets over the frustrating incompatibilities of data format   between suppliers and reader by allowing negotiation of format between a smart browser and a smart server. This should provide a basis for extension into multimedia, and allow those who share application standards to make full use of them across the web."
+    },
+    {
+        "id": "ch1_sect7",
+        "type": "simplesect",
+        "title": null,
+        "content": "This summary does not describe the many exciting possibilities opened up by the WWW project, such as efficient document caching. The reduction of redundant out-of-date copies, and the use of knowledge daemons.  There is more information in the online project documentation, including some background on hypertext and many technical notes."
+    }
+]

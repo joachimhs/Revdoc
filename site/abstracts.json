@@ -1,0 +1,8 @@
+[
+    {
+        "id": "chapter_1_abstract",
+        "content": "This chapter will introduce Ember.js as an application framework, and will touch upon many of the features and the technologies that are part of the Ember.js ecosystem. Most of these topics will be covered in detail in chapters throughout the book, but this chapter will give you a quick overview of what an Ember.js application might look like and what strengths you should be able to get from basing your application around Ember.js. This chapter serves as an overview of the basic building blocks of an Ember.js application, and will only briefly touch upon the different aspects that form the Ember.js framework. Do not worry if you find any code presented here confusing, or otherwise hard to understand Ember.js do come with a steep learning curve, especially if you are used to writing Web applications that are generated dynamically on the server-side. The code example presented in this chapter, the Notes application, do go through many different concepts of how an Ember.js application might be structured, and each aspect of the development of the source code will be explored in detail throughout the chapters of the book.",
+        "itemList": "A brief history about why we have single-page web appliacations;A brief history of Ember.js and an overview of what Ember.js is;What Ember.js will be able to provide to you, as a web developer;A complete sample application called Notes",
+        "chapter": "chapter_1_introduction"
+    }
+]
